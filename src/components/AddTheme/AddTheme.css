@@ -1,0 +1,9 @@
+.addThemeContainer__inputs {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    /* width: 50vw; */
+    /* height: 1px; */
+
+}

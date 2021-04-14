@@ -1,0 +1,68 @@
+{
+  "themes": [
+    {
+      "id": 1,
+      "title": "HTML",
+      "desc": "Yes, You Should Learn Vanilla JavaScript Before Fancy JS Frameworks. We stumbled upon this new cool thing called Node.js (its docs back then). No fancy dependencies, easy child processes spawning, async and event-driven... and many online were saying it was the sh*t. We had absolutely no clue of what JavaScript or V8 were, but it still seemed like a good call for our project.",
+      "img": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "desc": "typicode",
+      "img": "https://miro.medium.com/max/600/1*OFsc0SD55jhi8cjo7aCA4w.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Vanilla JS",
+      "desc": "typicode",
+      "img": "https://i.morioh.com/2019/12/26/3ab57798935e.jpg"
+    },
+    {
+      "title": "Bootstrap",
+      "desc": ">Bootstrap — свободный набор инструментов для создания сайтов и веб-приложений. Включает в себя HTML- и CSS-шаблоны оформления для типографики, веб-форм, кнопок, меток, блоков навигации и прочих компонентов веб-интерфейса, включая JavaScript-расширения.",
+      "img": "https://getbootstrap.ru/docs/4.5/assets/brand/bootstrap-social.png",
+      "id": 1618382209773
+    },
+    {
+      "title": "Native script (NS)",
+      "desc": ">Native script (NS) – это библиотека, позволяющая делать кросс-платформенные приложения, используя XML, CSS, JavaScript. Native script решает ту же задачу, что и уже всем известный phonegap (создание кросс-платформенных приложений), но подходы у них разные. Phonegap использует движок браузера, чтобы отобразить ваш UI (фактически вы получаете веб-страницу), Native script использует нативный рендеринг, использует элементы нативного UI. Следующее важное отличие: чтобы получить доступ к камере, gps и так далее в phonegap необходимо устанавливать плагины, в то время как NS дает доступ из коробки.",
+      "img": "https://habrastorage.org/files/c51/541/e1f/c51541e1f1194eccbfc707fe43464d7a.jpg",
+      "id": 1618382243094
+    },
+    {
+      "title": "DOM-дерево",
+      "desc": ">DOM-дерево Основой HTML-документа являются теги. В соответствии с объектной моделью документа («Document Object Model», коротко DOM), каждый HTML-тег является объектом. Вложенные теги являются «детьми» родительского элемента. Текст, который находится внутри тега, также является объектом.",
+      "img": "https://itchief.ru/assets/images/javascript/dom/1.png",
+      "id": 1618382264054
+    },
+    {
+      "title": "React",
+      "desc": ">React (иногда React.js или ReactJS) — JavaScript-библиотека[4] с открытым исходным кодом для разработки пользовательских интерфейсов. React разрабатывается и поддерживается Facebook, Instagram и сообществом отдельных разработчиков и корпораций[5][6][7]React может использоваться для разработки одностраничных и мобильных приложений. Его цель — предоставить высокую скорость, простоту и масштабируемость. В качестве библиотеки для разработки пользовательских интерфейсов React часто используется с другими библиотеками, такими как MobX, Redux и GraphQL[8].",
+      "img": "https://miro.medium.com/max/3260/1*CeuWv9fCjD1uTiTuKytnBQ.png",
+      "id": 1618382285557
+    },
+    {
+      "title": "Хуки",
+      "desc": ">Хуки — нововведение в React 16.8, которое позволяет использовать состояние и другие возможности React без написания классов.",
+      "img": "https://miro.medium.com/max/3000/1*-Ijet6kVJqGgul6adezDLQ.png",
+      "id": 1618382313437
+    },
+    {
+      "title": "jQuery",
+      "desc": ">jQuery — набор функций JavaScript, фокусирующийся на взаимодействии JavaScript и HTML. Библиотека jQuery помогает легко получать доступ к любому элементу DOM, обращаться к атрибутам и содержимому элементов DOM, манипулировать ими. Также библиотека jQuery предоставляет удобный API для работы с AJAX.",
+      "img": "https://habrastorage.org/files/a33/fac/434/a33fac4347e54ed280e4a1e8460289f5.png",
+      "id": 1618382325710
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
